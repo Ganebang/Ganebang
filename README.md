@@ -32,4 +32,4 @@ I’m a **Data Engineer** focused on designing and building **robust, scalable d
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 
 ## 📊 GitHub Stats 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ganebang&show_icons=true&theme=tokyonight)
+![Ganebang GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ganebang&show_icons=true&theme=tokyonight)
