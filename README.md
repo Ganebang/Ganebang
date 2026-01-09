@@ -10,7 +10,7 @@ I’m a **Data Engineer** focused on designing and building **robust, scalable d
 - 💬 **Ask me about:** Data engineering, cloud architecture, PySpark, Databricks, Airflow, and scalable systems.
 - 📫 **How to reach me:** *ganekwada@gmail.com*
 - 😄 **Pronouns:** He/Him
-- - ⚡ **Fun fact:** I enjoy transforming messy datasets into elegant, automated pipelines.
+- ⚡ **Fun fact:** I enjoy transforming messy datasets into elegant, automated pipelines.
 ## 🛠️ Tech Stack & Tools 
 ### **Data Engineering**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
